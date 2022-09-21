@@ -1,0 +1,26 @@
+body{
+    margin: 100;
+    background-color:aqua;
+}
+
+.formClass{
+    background-color:darkcyan;
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid black;
+    border-radius: 8px;
+}
+
+form {
+    padding: 20px;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+.button{
+    text-align: center;
+}
